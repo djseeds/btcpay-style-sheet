@@ -1,4 +1,4 @@
-.top-header, .action-button, .payment-tabs__slider, button.active {
+.top-header, .action-button, .payment-tabs__slider, separatorGem, button.active {
   background-color: #FF9900 !important;
   border-color: #FF9900 !important;
 }
