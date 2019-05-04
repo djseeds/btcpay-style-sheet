@@ -1,3 +1,3 @@
-.top-header, .action-button, .payment-tabs__slider, button.active {
-  background-color: #FF9900;
-}
+.top-header, .action-button, .payment-tabs__slider, button.active, {
+  background-color: #FF9900 !important;
+  border-color: #FF9900 !important;}
